@@ -9,5 +9,10 @@
 
 // add headers that you want to pre-compile here
 #include "framework.h"
+#include <Windows.h>
+#include <AclAPI.h>
+#include <iostream>
+#include <bitset>
+#include <sstream>
 
 #endif //PCH_H
